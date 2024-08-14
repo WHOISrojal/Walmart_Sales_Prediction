@@ -68,13 +68,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/walmart-sales-prediction.git
-cd walmart-sales-prediction
+git clone https://github.com/WHOISrojal/Walmart_Sales_Prediction.git
+cd Walmart_Sales_Prediction
 ```
 
 2. Run the main script:
 ```
-python main.py
+python Finalproject.ipynb
 ```
 
 3.View the results and visualizations in your terminal or output files.
